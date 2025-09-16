@@ -1,6 +1,6 @@
 # 🎮 Isabella Medeiros 
 
-**`Desenvolvedora FullStack`**
+**`Futura Dev FullStack`**
 
 Sou a Isabella Medeiros dos Santos, tenho **20** anos e sou nascida em Petrópolis, RJ. Em 2022 me formei no ensino médio pela instituição Colégio de Aplicação da Universidade Católica de Petrópolis (CAUCP). Hoje estou graduando Programação em Python pelo SENAC, certificada em Python pelo ENAP e atual Residente de TIC/Software pelo Serratec com parceria no Senai. Desde pequena tenho paixão pela tecnologia e alta facilidade com as ferramentas, por isso, aqui compartilho meu instagram onde via storys posso compartilhar conhecimentos [Isabella Medeiros](https://www.instagram.com/zt.isabella) e também meu [Linkedin](https://www.linkedin.com/in/isabella-medeiros-8b8772342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
